@@ -3,7 +3,7 @@
    <img align="center" alt="Cesar-Java" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </p>
 
-> 🌱👨‍💻 - Theme: World Hunger Problem - FIAP
+> ✍️👨‍💻 - Theme: World Hunger Problem - FIAP
 
 The Global Solution is an evaluative work in a group of 3 participants on a recurring theme, the theme of this semester was "Hunger". On this subject, I developed a Java work on challenges from a list of exercises proposed by the teacher (I did the Java part alone).
 
